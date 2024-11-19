@@ -1,8 +1,3 @@
----
-title: 'Report: AI for Global Health using Natural Language Processing'
-
----
-
 # Report: AI for Global Health using Natural Language Processing
 
 ## Part 1: Data pre-processing
